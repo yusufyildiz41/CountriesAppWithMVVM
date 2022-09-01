@@ -1,5 +1,5 @@
 # CountriesAppWithMVVM
-**Used libraries in this project**
+**Used technologies in this project**
 
 - [Retrofit](https://square.github.io/retrofit/)
 - [MVVM](https://developer.android.com/topic/libraries/architecture/viewmodel)
